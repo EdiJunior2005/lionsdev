@@ -12,7 +12,7 @@ function resposta(){
     if(gostaDeCafe == 'sim'){
         console.log("parabens voce gosta de cafe")
     }if(gostaDeCafe == 'nao'){
-        console.log("que pena que voce nao gosta de cafe")
+        console.log("que pena que voce nao gosta de CAFEEEEEEEEEEEEEEEEEE")
     }else if((gostaDeCafe != 'sim') && (gostaDeCafe != 'nao')){
         console.log("sua resposta deve ser sim ou nao, escreva de novo!")
         
